@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "bin": {
-    "cli": "./index.js"
+    "lx-cli": "./index.js"
   },
   "main": "index.js",
   "scripts": {
