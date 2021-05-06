@@ -1,9 +1,8 @@
 {
-  "name": "lx-cli",
+  "name": "lxs-cli",
   "version": "1.0.0",
-  "description": "",
   "bin": {
-    "lx-cli": "./index.js"
+    "lxs-cli": "./index.js"
   },
   "main": "index.js",
   "scripts": {
@@ -15,5 +14,15 @@
   "dependencies": {
     "commander": "^7.2.0",
     "inquirer": "^8.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TOMGOU/lx-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TOMGOU/lx-cli/issues"
+  },
+  "homepage": "https://github.com/TOMGOU/lx-cli#readme",
+  "description": ""
 }
